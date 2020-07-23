@@ -11,15 +11,14 @@ function About() {
             </div>
             <div>
                 <ul className="list-unstyled h4 lead">
-                    <li><h1 ref={ref}><strong>About Us</strong></h1><br />We are living in the hyper modern world; the pace <br />of change
-                    is hard-to-catch. The constantly changing<br /> world has spurred
-                    the enormous growth in all shades<br /> of life. The internet has
-                    evolved as driving fuel of <br /> business and patronage. The rapidity
-                    & global<br /> coverage has made it inevitable; So enterprise relies<br />
-                    heavily on internet<b>E-Commerce</b> for projection and<br /> marketing of /
-                    his goods & services.A fully loaded smart<br /> web site is the primary
-                    requirement to cast the solid image <br />of the company and its development calls for in depth knowledge<br /> and professional capability of <strong>designer</strong>.
-                    <br />
+                    <li><h1 ref={ref}><strong>About Us</strong></h1><br />We are living in the hyper modern world; the pace of change
+                    is hard-to-catch. The constantly changing world has spurred
+                    the enormous growth in all shades of life. The internet has
+                    evolved as driving fuel of business and patronage. The rapidity
+                    & global coverage has made it inevitable; So enterprise relies<br />
+                    heavily on internet<b>E-Commerce</b> for projection and marketing of /
+                    his goods & services.A fully loaded smart  web site is the primary
+                    requirement to cast the solid image of the company and its development calls for in depth knowledgeand professional capability of <strong>designer</strong>.
                     </li><br /><br /><br />
                 </ul>
             </div>
@@ -28,15 +27,14 @@ function About() {
             </div>
             <div>
                 <ul className="list-unstyled h4 lead">
-                    <li><h1><strong>Vision</strong></h1><br />We are living in the hyper modern world; the pace <br />of change
-                    is hard-to-catch. The constantly changing<br /> world has spurred
-                    the enormous growth in all shades<br /> of life. The internet has
-                    evolved as driving fuel of <br /> business and patronage. The rapidity
-                    & global<br /> coverage has made it inevitable; So enterprise relies<br />
-                    heavily on internet<b>E-Commerce</b> for projection and<br /> marketing of /
-                    his goods & services.A fully loaded smart<br /> web site is the primary
-                    requirement to cast the solid image <br />of the company and its development calls for in depth knowledge<br /> and professional capability of <strong>designer</strong>.
-                    <br />
+                    <li><h1><strong>Vision</strong></h1><br />We are living in the hyper modern world; the pace of change
+                    is hard-to-catch. The constantly changing world has spurred
+                    the enormous growth in all shades of life. The internet has
+                    evolved as driving fuel of business and patronage. The rapidity
+                    & global coverage has made it inevitable; So enterprise relies<br />
+                    heavily on internet<b>E-Commerce</b> for projection and marketing of /
+                    his goods & services.A fully loaded smart  web site is the primary
+                    requirement to cast the solid image of the company and its development calls for in depth knowledgeand professional capability of <strong>designer</strong>.
                     </li><br /><br /><br />
                 </ul>
             </div>
@@ -45,15 +43,14 @@ function About() {
             </div>
             <div>
                 <ul className="list-unstyled h4 lead">
-                    <li><h1><strong>How We Work?</strong></h1><br />We are living in the hyper modern world; the pace <br />of change
-                    is hard-to-catch. The constantly changing<br /> world has spurred
-                    the enormous growth in all shades<br /> of life. The internet has
-                    evolved as driving fuel of <br /> business and patronage. The rapidity
-                    & global<br /> coverage has made it inevitable; So enterprise relies<br />
-                    heavily on internet<b>E-Commerce</b> for projection and<br /> marketing of /
-                    his goods & services.A fully loaded smart<br /> web site is the primary
-                    requirement to cast the solid image <br />of the company and its development calls for in depth knowledge<br /> and professional capability of <strong>designer</strong>.
-                    <br />
+                    <li><h1><strong>How We Work?</strong></h1><br />We are living in the hyper modern world; the pace of change
+                    is hard-to-catch. The constantly changing world has spurred
+                    the enormous growth in all shades of life. The internet has
+                    evolved as driving fuel of business and patronage. The rapidity
+                    & global coverage has made it inevitable; So enterprise relies<br />
+                    heavily on internet<b>E-Commerce</b> for projection and marketing of /
+                    his goods & services.A fully loaded smart  web site is the primary
+                    requirement to cast the solid image of the company and its development calls for in depth knowledgeand professional capability of <strong>designer</strong>.
                     </li><br /><br /><br />
                 </ul>
             </div>
