@@ -1,8 +1,7 @@
 import React from 'react'
-import useWebAnimations, { heartBeat, bounceInUp } from "@wellyshen/use-web-animations";
+import useWebAnimations, { heartBeat } from "@wellyshen/use-web-animations";
 function Contact() {
     const { ref } = useWebAnimations({ ...heartBeat })
-    const { fec } = useWebAnimations({ ...bounceInUp })
 
     return (
         <>
