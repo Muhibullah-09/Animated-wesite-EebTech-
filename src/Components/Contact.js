@@ -6,7 +6,7 @@ function Contact() {
     return (
         <>
             <div className="float-md-right">
-                <img src='https://tilakthakurdot.files.wordpress.com/2017/11/contact-1.gif' class="rounded float-left" alt="logo"></img>
+                <img src='https://media1.tenor.com/images/d878e4de5b47c16141cbadef16ebb3e6/tenor.gif?itemid=9847167' class="rounded float-left" alt="logo"></img>
             </div>
             <div>
                 <form style={{ width: '500px', margin: '100px', padding: 0 }}>
