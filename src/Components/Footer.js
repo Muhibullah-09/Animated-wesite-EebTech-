@@ -11,8 +11,8 @@ function Footer() {
                         <div className='row'>
                             <div className='col-md-3 col-sm-6 col-xs-12 segment-one'>
                                 <h3>Designed</h3>
-                                <p>This is Muhibullah Khan Kamali .I am<br /> a undergraduate computer system engineering student.
-                                Mission is that <br />to contribute for my motherland Pakistan and make his name in technology across the world.
+                                <p>This is Muhibullah Khan Kamali .An undergraduate student at computer system engineering.
+                                Mission is to contribute in IT industry of Pakistan.
                                 </p>
                             </div>
                             <div className='col-md-3 col-sm-6 col-xs-12 segment-two'>
